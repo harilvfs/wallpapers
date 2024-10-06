@@ -13,5 +13,19 @@ Clone the repository:
  ```
 ### Use Case with feh
 ```bash
+sudo pacman -S feh
+```
+<strong> Use  the exec according to your window manager :
+**Dwm**
+```bash
+  "sh", "-c", "feh --randomize --bg-fill ~/dir/wallpapers/*", NULL,
+```
+
+**i3wm**
+```bash
 exec --no-startup-id sh -c 'feh --randomize --bg-fill ~/dir/wallpapers/*'
 ```
+
+**SwayWM**
+```bash
+sudo pacman -S swaybg
