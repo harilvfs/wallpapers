@@ -6,7 +6,7 @@ Beautiful Nord & Anime Wallpapers Collection
 - [🎨 2SSK's Wallpaper Bank](https://github.com/2SSK/Wallpaper-Bank)
 - [❄️ ChrisTitusTech's Nord Background](https://github.com/christitustech/nord-background)
 
-### 📋 Usage:
+### 📋Usage:
 Clone the repository:
  ```bash
  git clone https://github.com/harilvfs/wallpapers
