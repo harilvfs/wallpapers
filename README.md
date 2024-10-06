@@ -1,7 +1,4 @@
-# wallpapers
-Beautiful Nord &amp; Anime Wallpapers
-
-# Wallpaper Collection
+### Wallpaper Collection
 
 Beautiful Nord & Anime Wallpapers Collection
 
