@@ -21,6 +21,10 @@ Clone the repository:
 - xwallpaper
 - wallpaperd
 
+```bash
+sudo pacman -S feh nitrogen variety xfdesktop hsetroot xwallpaper wallpaperd
+```
+
 ### Wallpapers Packages [Wayland]
 - swaybg
 - hyperbg
@@ -30,6 +34,13 @@ Clone the repository:
 - bgfx
 - wpg
 - hydrogen
+
+```bash
+sudo pacman -S swaybg variety
+```
+```bash
+yay -S hyperbg feh wally bgfx wpg hydrogen
+```
 
 ### Use Case with feh
 ```bash
