@@ -11,3 +11,7 @@ Clone the repository:
  ```bash
  git clone https://github.com/harilvfs/wallpapers
  ```
+### Use Case with feh
+```bash
+exec --no-startup-id sh -c 'feh --randomize --bg-fill ~/dir/wallpapers/*'
+```
