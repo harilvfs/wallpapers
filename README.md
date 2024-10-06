@@ -11,6 +11,26 @@ Clone the repository:
  ```bash
  git clone https://github.com/harilvfs/wallpapers
  ```
+
+### Wallpapers Packages [x11]
+- feh
+- nitrogen
+- variety
+- xfdesktop [xfce]
+- hsetroot
+- xwallpaper
+- wallpaperd
+
+### Wallpapers Packages [Wayland]
+- swaybg
+- hyperbg
+- feh (via XWayland)
+- variety
+- wally
+- bgfx
+- wpg
+- hydrogen
+
 ### Use Case with feh
 ```bash
 sudo pacman -S feh
@@ -26,6 +46,8 @@ sudo pacman -S feh
 exec --no-startup-id sh -c 'feh --randomize --bg-fill ~/dir/wallpapers/*'
 ```
 
-**SwayWM**
+**SwayWM** with  <strong>swaybg</strong>
 ```bash
 sudo pacman -S swaybg
+exec_always --no-startup-id swaybg -i ~/dir/wallpapers/ -m fill --randomize
+```
