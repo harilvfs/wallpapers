@@ -5,18 +5,18 @@ WALLPAPER_DIR = "."
 README_FILE = "README.md"
 
 def generate_markdown(images):
-    """Generates Markdown table format for images."""
+    """Generates Markdown grid format for images with four images per row."""
     rows = []
     row = []
     for i, img in enumerate(images, start=1):
-        row.append(f"<img src='{img}' alt='img' width='150px'>")
-        if i % 3 == 0:  
-            rows.append("|" + " | ".join(row) + " |")
+        row.append(f"<img src='{img}' alt='img' width='200px'>")  
+        if i % 4 == 0:  
+            rows.append("| " + " | ".join(row) + " |")
             row = []
     if row:
-        rows.append("|" + " | ".join(row) + " |")
-    separator = "| " + " | ".join(["---"] * 3) + " |"
-    return separator.join(["\n"] + rows)
+        rows.append("| " + " | ".join(row) + " |")  
+    separator = "| " + " | ".join(["---"] * 4) + " |\n"  
+    return "\n".join(["\n" + separator] + rows)
 
 def main():
     images = [
@@ -29,6 +29,7 @@ def main():
         return
 
     markdown = generate_markdown(images)
+
     readme_content = (
         "# Wallpaper Previews\n\n"
         "Here is a preview of all wallpapers in this repository:\n\n"
@@ -40,3 +41,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
