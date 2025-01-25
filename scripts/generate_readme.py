@@ -6,17 +6,19 @@ WALLPAPER_DIR = "."  # Root directory
 README_FILE = "README.md"
 
 def generate_markdown(images):
-    """Generates Markdown preview format for images."""
+    """Generates Markdown table format for images."""
     rows = []
     row = []
     for i, img in enumerate(images, start=1):
-        row.append(f"![img]({img})")
+        row.append(f"<img src='{img}' alt='img' width='150px'>")
         if i % 3 == 0:  # Add 3 images per row
-            rows.append("|" + "|".join(row) + "|")
+            rows.append("|" + " | ".join(row) + " |")
             row = []
     if row:
-        rows.append("|" + "|".join(row) + "|")
-    return "\n".join(rows)
+        rows.append("|" + " | ".join(row) + " |")
+    # Add a separator line for the table
+    separator = "| " + " | ".join(["---"] * 3) + " |"
+    return separator.join(["\n"] + rows)
 
 def main():
     # Collect all images in the root directory
@@ -43,4 +45,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
