@@ -1,8 +1,7 @@
 import os
 from pathlib import Path
 
-# Define the root directory and README file
-WALLPAPER_DIR = "."  # Root directory
+WALLPAPER_DIR = "."
 README_FILE = "README.md"
 
 def generate_markdown(images):
@@ -11,17 +10,15 @@ def generate_markdown(images):
     row = []
     for i, img in enumerate(images, start=1):
         row.append(f"<img src='{img}' alt='img' width='150px'>")
-        if i % 3 == 0:  # Add 3 images per row
+        if i % 3 == 0:  
             rows.append("|" + " | ".join(row) + " |")
             row = []
     if row:
         rows.append("|" + " | ".join(row) + " |")
-    # Add a separator line for the table
     separator = "| " + " | ".join(["---"] * 3) + " |"
     return separator.join(["\n"] + rows)
 
 def main():
-    # Collect all images in the root directory
     images = [
         file for file in sorted(os.listdir(WALLPAPER_DIR))
         if file.lower().endswith((".png", ".jpg", ".jpeg", ".gif"))
@@ -31,7 +28,6 @@ def main():
         print("No wallpapers found.")
         return
 
-    # Generate Markdown content
     markdown = generate_markdown(images)
     readme_content = (
         "# Wallpaper Previews\n\n"
@@ -39,7 +35,6 @@ def main():
         + markdown
     )
 
-    # Write to README.md
     with open(README_FILE, "w") as readme:
         readme.write(readme_content)
 
