@@ -1,7 +1,7 @@
 ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/harilvfs/wallpapers?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/harilvfs/wallpapers?style=for-the-badge)
 
-For a preview, check the repository README [here](https://github.com/harilvfs/wallpapers/blob/main/README.md)
+**For a preview, check the repository README [here](https://github.com/harilvfs/wallpapers/blob/main/README.md)**.
 
 ### 🖼️ Wallpaper Collection 
 
