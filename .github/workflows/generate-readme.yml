@@ -27,11 +27,11 @@ jobs:
 
       - name: Commit and push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
+          PAT: ${{ secrets.ACTIONS_PAT }}
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://${PAT}@github.com/${{ github.repository }}.git
           git add README.md
           git commit -m "Update README with wallpaper previews" || echo "No changes to commit"
-          git push https://${{ secrets.ACTIONS_PAT }}@github.com/${{ github.repository }}.git HEAD:main
-
+          git push origin HEAD:main
