@@ -9,8 +9,8 @@ def generate_markdown(images):
     rows = []
     row = []
     for i, img in enumerate(images, start=1):
-        row.append(f"<img src='{img}' alt='Wallpaper' width='250px' style='margin: 10px;'>")  # Adjust width as needed
-        if i % 4 == 0:  
+        row.append(f"<img src='{img}' alt='Wallpaper' width='250px' style='margin: 10px;'>")  
+        if i % 3 == 0:  
             rows.append("<div style='display: flex; justify-content: center; gap: 10px;'>\n" + "\n".join(row) + "\n</div>")
             row = []
     if row:  
