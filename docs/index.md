@@ -11,6 +11,7 @@ Beautiful Nord & Anime Wallpapers Collection
 - [2SSK's Wallpaper Bank](https://github.com/2SSK/Wallpaper-Bank)
 - [ChrisTitusTech's Nord Background](https://github.com/christitustech/nord-background)
 - [Maotseantonio](https://github.com/maotseantonio/wallpapers)
+- [JaKooLit](https://github.com/JaKooLit/Wallpaper-Bank)
 
 ### 📋Usage:
 Clone the repository:
