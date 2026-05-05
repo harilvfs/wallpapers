@@ -9,13 +9,8 @@ Here is a preview of all wallpapers in this repository:
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
 <img src='16.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='1920x1080.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='1r1kk9qi00961.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-</div>
-<div style='display: flex; justify-content: center; gap: 10px;'>
 <img src='23.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='2560x1080.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='3440x1440.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
 <img src='36.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
@@ -69,23 +64,28 @@ Here is a preview of all wallpapers in this repository:
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
 <img src='Backyard.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='Beach-Dark.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Beer-Girl.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='Bonsai-Plant.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='Bonsai-Plant.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Buildings.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Candle-Photo.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='City-Night.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='City-Night.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='City-Rain.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='City-Rainy-Night.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='Courtside-Sunset.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='City_dark.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='Courtside-Sunset.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Crater.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+</div>
+<div style='display: flex; justify-content: center; gap: 10px;'>
 <img src='CuteCat.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Dark_Nature.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='Dessert-Dark.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
 <img src='Dreamy-Aesthetic-Home-Under-Moonlight.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
@@ -123,92 +123,102 @@ Here is a preview of all wallpapers in this repository:
 <img src='Fog-Forest-Everforest.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='Forest-Dark.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='FormulaOne_Button_1.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='FormulaOne_Rosberg_2.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='GT-40.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='Fuji-Dark.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='GT-40.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Game-GTA.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+</div>
+<div style='display: flex; justify-content: center; gap: 10px;'>
 <img src='Garage.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='Garden-Dark.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='IMG_7052.JPG' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
 <img src='IT_guy.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='Lady-Dark.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Lady.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='Lake.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='Lake.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Linux-user-Room.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Lofi - Anime Girl Balcony.jpeg' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='Lofi - Anime Girl Coder.jpeg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='Lofi - Anime Girl Coder.jpeg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Lofi - Anime Girl.jpeg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Lofi - Anime Girl2.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='Lofi - Chill Room.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='Lofi - Chill Room.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Lofi - Chill Room2.jpeg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Lofi-Anime-Room.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='Lofi-Cafe1.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='Lofi-Cafe1.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Lofi-Cafe2.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Lofi-Computer.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='Lofi-Desktop-Man-Studying.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='Lofi-Desktop-Man-Studying.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Lofi-Room.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Lofi-Urban-Nightscape.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='Lofi_Cat.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='Lofi_Cat.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Lowpoly_Street.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Manga-Girl-Rain.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='Manga-Portal.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='Manga-Portal.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Manga-Shrine.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Mecha-Nostalgia.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='Messy-Room.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='Messy-Room.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Minimal_Squares.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Mocha-hald8-pinkish.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='Nature-Aurorae.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='Mountain_dark.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='Nature-Aurorae.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Nature.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+</div>
+<div style='display: flex; justify-content: center; gap: 10px;'>
 <img src='Night monochrome.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Night_5760x2880px2.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='Night_City.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
-<img src='Night_City.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Northern Lights1.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Northern Lights2.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='Northern Lights3.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
-<img src='Northern Lights3.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Northern Lights4.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Northern Lights5.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='Palette.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
-<img src='Palette.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Pastel-Window.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Patterns.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='RDT_20241230_1743584438277266288424584.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
-<img src='RDT_20241230_1743584438277266288424584.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='RDT_20250607_1554367821381331680858185.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='RDT_20250615_1612475193466009434740031.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='Red_Eclipse.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
-<img src='Red_Eclipse.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Relaxed_Mario.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Retro - Programmer.jpeg' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='River.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
-<img src='River.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='Riverside-Dark.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='SBKjnxm.jpeg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Scifi-Room.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
@@ -224,18 +234,23 @@ Here is a preview of all wallpapers in this repository:
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
 <img src='Summer-Mojito.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='Summer-Scene-Dark.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Sun-Setting-Horizon.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='Sunset-Forrest.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='Sunset-Forrest.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Sunset-room.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Techno-Geek.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='Tokyo_Pink.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='Tokyo_Pink.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Tower-Night.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='Tree_dark.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+</div>
+<div style='display: flex; justify-content: center; gap: 10px;'>
 <img src='Under_Starlit_Sky.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='Video Game - The Blackstreets.jpeg' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='Village-Dark.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
 <img src='Wall.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
@@ -654,98 +669,103 @@ Here is a preview of all wallpapers in this repository:
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
 <img src='haunted-house.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='highway_dark.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='hollow-knight.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='hollow-knight.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='hollow-knight.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='hollow.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='horizon-2.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='horizon.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='horizon.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='i-touch-this.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign-0001.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='ign-0007.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='ign-0007.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign-0008.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign-0011.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='ign-76543.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='ign-76543.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign-8675.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_astronaut.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='ign_beyondHillAndDale.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='ign_beyondHillAndDale.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_bratislava.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_car.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='ign_city.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='ign_city.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_cityRain.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_cityRainOther.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='ign_colorful.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='ign_colorful.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_desert.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_dudeOnBuilding.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='ign_dudeOnBuilding2.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='ign_dudeOnBuilding2.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_dudeOnBuilding3.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_evening.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='ign_farFromTomorrow.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='ign_farFromTomorrow.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_furkaPass.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_graySpaceship.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='ign_highTechGlobe.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='ign_highTechGlobe.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_legendary.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_lighthouse.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='ign_mandalorian.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='ign_mandalorian.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_mountains.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_mountains.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='ign_outer_space.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='ign_outer_space.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_planets.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_street-crossing.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='ign_sunAndClouds.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='ign_sunAndClouds.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_sunGarden.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_sunset.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='ign_unicorn.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='ign_unicorn.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_unsplash15.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='ign_unsplash27.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='ign_unsplash4.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='ign_unsplash4.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='interstellar_wallpaper.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='isekai.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
-<img src='japan-alley.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
+<img src='japan-alley.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='japan-street-Dark.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='jellyfish.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
+</div>
+<div style='display: flex; justify-content: center; gap: 10px;'>
 <img src='jo0jamlw69o91.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='jupiter.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='kaiju.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
-<img src='kaiju.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='keinbackup.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='keyboard-2.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='keyboard.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
-<img src='keyboard.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='kitchen.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 <img src='kitty.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
+<img src='kitty_dark.png' alt='Wallpaper' width='250px' style='margin: 10px;'>
 </div>
 <div style='display: flex; justify-content: center; gap: 10px;'>
 <img src='koi.jpg' alt='Wallpaper' width='250px' style='margin: 10px;'>
