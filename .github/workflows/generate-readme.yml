@@ -15,10 +15,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
@@ -29,12 +29,9 @@ jobs:
         run: python scripts/generate_readme.py
 
       - name: Commit and push changes
-        env:
-          PAT: ${{ secrets.ACTIONS_PAT }}
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://${PAT}@github.com/${{ github.repository }}.git
-          git add README.md
-          git commit -m "Update README with wallpaper previews" || echo "No changes to commit"
+          git add README.md .thumbnails/
+          git commit -m "chore: update README previews and thumbnails" || echo "No changes to commit"
           git push origin HEAD:main
